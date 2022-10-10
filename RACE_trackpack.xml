@@ -1,6 +1,6 @@
 <OverlayData>
-    <MarkerCategory name="discord" DisplayName="[RACE] Discord: https://discord.gg/wkJbRwA" isSeparator="1" copy="https://discord.gg/wkJbRwA" copy-message="Discord link copied to clipboard!"/>
     <MarkerCategory name="race_tracks" DisplayName="[RACE] Beetle Racing Tracks">
+    	<MarkerCategory name="discord" DisplayName="[RACE] Discord: https://discord.gg/wkJbRwA" isSeparator="1" copy="https://discord.gg/wkJbRwA" copy-message="Discord link copied to clipboard!"/>
         <MarkerCategory name="ascalon" DisplayName="Ascalon">
             <MarkerCategory name="bc_circuit" DisplayName="Black Citadel Circuit by Boarkk [&BDcEAAA=]">
                 <MarkerCategory name="trail" DisplayName="Toggle Trail"/>

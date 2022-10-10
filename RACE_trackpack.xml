@@ -1,0 +1,681 @@
+<OverlayData>
+    <MarkerCategory name="discord" DisplayName="[RACE] Discord: https://discord.gg/wkJbRwA" isSeparator="1" copy="https://discord.gg/wkJbRwA" copy-message="Discord link copied to clipboard!"/>
+    <MarkerCategory name="race_tracks" DisplayName="[RACE] Beetle Racing Tracks">
+        <MarkerCategory name="ascalon" DisplayName="Ascalon">
+            <MarkerCategory name="bc_circuit" DisplayName="Black Citadel Circuit by Boarkk [&BDcEAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="for_speedway" DisplayName="Fields of Ruin Speedway by Ne0sam [&BFEBAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="for_speedwayextended" DisplayName="Fields of Ruin Speedway - Extended by Ne0sam [&BFEBAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="fr_canyoncircuit" DisplayName="Fireheart Rise - Canyon Circuit by Garfried [&BB4CAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="poa_smokesteadcircuit" DisplayName="Plains of Ashford - Smokestead Circuit by Sunless [&BIABAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="cantha" DisplayName="Cantha">
+            <MarkerCategory name="de_jadepeaks" DisplayName="Dragon's End - Jade's Peaks by Vadrorias [&BKIMAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="tew_highwaytozuheltzer" DisplayName="The Echovald Wilds - Highway to Zu Heltzer by Torin [&BPkMAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="tew_tengutreetoptornado" DisplayName="The Echovald Wilds - Tengu Treetop Tornado by Arydae [&BMcMAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="nkc_airdriftcity" DisplayName="New Kaineng City - Airdrift City by Arydae [&BBYNAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="nkc_kainengskylane" DisplayName="New Kaineng City - Kaineng Sky Lane by Vadrorias [&BBYNAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sp_haijulagoonaseca" DisplayName="Seitung Province - Haiju Lagoona Seca by Arydae [&BGUNAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sp_pathtothemonastery" DisplayName="Seitung Province - Path to the Monastery by Vadrorias [&BL8MAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="crystaldesert" DisplayName="Crystal Desert">
+            <MarkerCategory name="co_oasissprint" DisplayName="Crystal Oasis Sprint by Mali [&BEAKAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="dok_desertvillageswitchback" DisplayName="Domain of Kourna - Desert Village Switchback by Andur [&BFcLAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="heartofmaguuma" DisplayName="Heart of Maguuma">
+            <MarkerCategory name="ds_circuit" DisplayName="Dragon's Stand Circuit by Sunless [&BBAIAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="td_tangleddescent" DisplayName="Tangled Depths - Tangled Descent [&BA4IAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="vb_treacherouspath" DisplayName="Verdant Brink - Treacherous Path by Moxb [&BBwIAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="kryta" DisplayName="Kryta">
+            <MarkerCategory name="gf_leylinecircuit" DisplayName="Gendarran Fields - Ley-Line Circuit [&BJQBAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="gf_sprint1" DisplayName="Gendarran Fields - Sprint 1 [&BJMBAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="gf_sprint2" DisplayName="Gendarran Fields - Sprint 2 [&BJIBAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="gf_centaurhideout" DisplayName="Gendarran Fields - The Centaurs' Hideout by Sunless [&BOAAAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="gf_vigilcircuit" DisplayName="Gendarran Fields - Vigil Circuit [&BJIBAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="ld_circuit" DisplayName="Lake Doric Circuit [&BK0JAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="la_islandjump" DisplayName="Lion's Arch - Island Jump by Garfried [&BBEEAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="la_seasidecircuit" DisplayName="Lion's Arch - Seaside Circuit [&BBEEAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="la_legend" DisplayName="The Legend of Lion's Arch by Sunless [&BBEEAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="la_westernwardcircuit" DisplayName="Lion's Arch - Western Ward Circuit by Andur [&BC8EAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="qd_shaemoorcircuit" DisplayName="Queensdale - Shaemoor Circuit [&BO8AAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="qd_banditpassageway" DisplayName="Queensdale - Bandit's Passageway by Andur [&BEQDAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="qd_banditpassagewayextended" DisplayName="Queensdale - Bandit's Passageway - Extended by Andur [&BEQDAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="maguumajungle" DisplayName="Maguuma Jungle">
+            <MarkerCategory name="bw_skrittsburghtour" DisplayName="Brisban Wildlands - Skrittsburgh Tour by Shoop [&BGAAAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="cf_outpostsprint" DisplayName="Caledon Forest - Outpost Sprint by Garfried [&BEABAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="mp_circuit" DisplayName="Metrica Province - Metrica Circuit by Boarkk [&BEMAAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="mm_circuit" DisplayName="Mount Maelstrom - Circuit by Robinho [&BMcCAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="mm_intothevolcano" DisplayName="Mount Maelstrom - Into the Volcano by Ne0sam [&BMkCAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="mm_sprint" DisplayName="Mount Maelstrom - Sprint by u/lbrsc [&BMoCAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="mm_trickycircuit" DisplayName="Mount Maelstrom - Tricky Circuit by Sunless [&BMwCAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="rs_downhilldrift" DisplayName="Rata Sum - Downhill Drift [&BBQEAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sf_rotmouthrace" DisplayName="Sparkfly Fen - Rotmouth Race [&BLMDAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="maguumawastes" DisplayName="Maguuma Wastes"/>
+        <MarkerCategory name="ringoffire" DisplayName="Ring of Fire">
+            <MarkerCategory name="dm_sprint" DisplayName="Draconis Mons Sprint by Karosh [&BM0JAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="orr" DisplayName="Ruins of Orr">
+            <MarkerCategory name="cs_arahcircuit" DisplayName="Cursed Shore - Arah Circuit by Sunless [&BCADAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="cs_arahcircuitmk2" DisplayName="Cursed Shore - Arah Circuit MKII by Eli [&BCADAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="cs_arahdrifttime" DisplayName="Cursed Shore - Arah Drift Time by Mali [&BBkDAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sod_devastationcircuit" DisplayName="Straits of Devastation - Devastation Circuit by Sunless [&BO4CAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="shiverpeaks" DisplayName="Shiverpeak Mountains">
+            <MarkerCategory name="dc_circuit" DisplayName="Dredgehaunt Cliffs Circuit by Sunless [&BGICAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="dc_circuitextended" DisplayName="Dredgehaunt Cliffs Circuit - Extended by Sunless [&BGICAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="dc_dredgeminefield" DisplayName="Dredgehaunt Cliffs - Dredge Minefield (Long) [&BGQCAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="hb_karoshtournament" DisplayName="Hoelbrak - Karosh Tournament Track [&BI8DAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="hb_rampdrift" DisplayName="Hoelbrak - Hoelbrak Ramp Drift [&BI8DAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="fs_canyoncircuit" DisplayName="Frostgorge Sound - Canyon Circuit by Garfried [&BIMCAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="fs_molesandbearscircuit" DisplayName="Frostgorge Sound - Moles and Bears Circuit by Garfried [&BIUCAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="lp_bridgemadness" DisplayName="Lornar's Pass - Bridge Madness [&BOkAAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="lp_sprint" DisplayName="Lornar's Pass - Sprint by Mali [&BEAGAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sd_kerishanacircuit" DisplayName="Snowden Drifts - Kerishana Circuit by Karosh [&BLcAAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sd_easycircuit" DisplayName="Snowden Drifts - Easy Circuit [&BLcAAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="wf_frostyforestrally" DisplayName="Wayfarer Foothills - Frosty Forest Rally by Andur [&BAEEAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="wf_ravenshrinecircuit" DisplayName="Wayfarer Foothills - Raven Shrine Circuit by Karosh [&BHMBAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <!-- <MarkerCategory name="memes" DisplayName="Meme Tracks">
+            <MarkerCategory name="tew_imeanitfitstherules" DisplayName="I Mean, It Fits the Rules! by Vadrorias [&BMcMAAA=]">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                <MarkerCategory name="checkpoints" DisplayName="Toggle Checkpoints" iconFile="Data/Icons/RACE_checkpoint.png"/>
+            </MarkerCategory>
+        </MarkerCategory> -->
+    </MarkerCategory>
+    <POIs>
+        <!-- Ascalon -->
+        <!-- Black Citadel -->
+        <Trail type="race_tracks.ascalon.bc_circuit.trail" trailData="Data/Trails/bc_circuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="218" xpos="143.377" ypos="166.213" zpos="-14.994" type="race_tracks.blackcitadel.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="XfEB5c17kUm5Avmu9fAfxA=="/>
+        <!-- Fields of Ruin -->
+        <Trail type="race_tracks.ascalon.for_speedway.trail" trailData="Data/Trails/for_speedway.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="21" xpos="-576.319" ypos="60.0629" zpos="-763.606" type="race_tracks.fieldsofruin_speedway.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="lC2cqJUxmU6NnF+37IPpeQ=="/>
+		<POI MapID="21" xpos="-351.637" ypos="52.533" zpos="-760.668" type="race_tracks.fieldsofruin_speedway.checkpoints" GUID="+AcWe7RKOEiyljRCfNP0XA=="/>
+		<POI MapID="21" xpos="280.344" ypos="26.0846" zpos="-680.194" type="race_tracks.fieldsofruin_speedway.checkpoints" GUID="/c56mE9vPE+IwcCH2CvfQw=="/>
+		<POI MapID="21" xpos="499.395" ypos="13.4217" zpos="-95.4048" type="race_tracks.fieldsofruin_speedway.checkpoints" GUID="WseBzSumd0KD1CUSJY8LzA=="/>
+		<POI MapID="21" xpos="-6.75941" ypos="3.49824" zpos="108.426" type="race_tracks.fieldsofruin_speedway.checkpoints" GUID="mlKUnzsTvE2nYAE/ildtQg=="/>
+		<POI MapID="21" xpos="-462.036" ypos="62.1043" zpos="-339.911" type="race_tracks.fieldsofruin_speedway.checkpoints" GUID="nslM/u1M10my4CCSlU6Ofg=="/>
+		<POI MapID="21" xpos="-650.609" ypos="46.8724" zpos="-636.937" type="race_tracks.fieldsofruin_speedway.checkpoints" GUID="lZuW8KgmP0W9SPZvHxDQ1w=="/>
+		<POI MapID="21" xpos="-751.622" ypos="60.137" zpos="-698.735" type="race_tracks.fieldsofruin_speedway.checkpoints" GUID="MBcBXhYvk0mZfD4D3AFayA=="/>
+        <Trail type="race_tracks.ascalon.for_speedwayextended.trail" trailData="Data/Trails/for_speedwayextended.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="21" xpos="-575.906" ypos="60.0533" zpos="-763.328" type="race_tracks.ascalon.for_speedwayextended.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="oRaX/xrTj0uOPuMEXrqWKQ=="/>
+		<POI MapID="21" xpos="-351.58" ypos="52.5373" zpos="-759.877" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="idBPHQiBGEqw+ivmJ1x2+g=="/>
+		<POI MapID="21" xpos="280.083" ypos="26.0547" zpos="-679.573" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="dtn57DY+/kW7FkDOPhf60w=="/>
+		<POI MapID="21" xpos="499.093" ypos="13.4324" zpos="-95.8503" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="Yp6bL7W4i06Kytynql9M+Q=="/>
+		<POI MapID="21" xpos="387.486" ypos="2.1869" zpos="735.368" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="atamLxkQV0uQEyk/OBUlzA=="/>
+		<POI MapID="21" xpos="-58.8506" ypos="21.7832" zpos="766.34" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="PHN30o6Z90uEsUse0DN3Sg=="/>
+		<POI MapID="21" xpos="-227.639" ypos="22.1228" zpos="326.652" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="Ue8NLZR9N0KxO2gG//W0ow=="/>
+		<POI MapID="21" xpos="-461.289" ypos="62.2075" zpos="-340.469" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="tJe1ep3UdUKGiYoeLPLEpg=="/>
+		<POI MapID="21" xpos="-650.269" ypos="46.8424" zpos="-635.904" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="M/wP+cCIrU2Kal4PBLli6Q=="/>
+		<POI MapID="21" xpos="-751.419" ypos="60.226" zpos="-701.037" type="race_tracks.ascalon.for_speedwayextended.checkpoints" GUID="jDJJo+vGAUKqGOlRPirDLA=="/>
+        <!-- Fireheart Rise -->
+        <Trail type="race_tracks.ascalon.fr_canyoncircuit.trail" trailData="Data/Trails/fr_canyoncircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="22" xpos="-820.183" ypos="84.4145" zpos="87.911" type="race_tracks.fireheartrise_canyoncircuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="4D68Vcv9nUibW4fTUC/PFA=="/>
+        <!-- Plains of Ashford -->
+        <Trail type="race_tracks.ascalon.poa_smokesteadcircuit.trail" trailData="Data/Trails/poa_smokesteadcircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="19" xpos="-1127.25" ypos="66.1745" zpos="139.832" type="race_tracks.ascalon.poa_smokesteadcircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="cSEdFiesykexQZy11CXr7w=="/>
+		<POI MapID="19" xpos="-1088.53" ypos="51.3054" zpos="246.215" type="race_tracks.ascalon.poa_smokesteadcircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="R//ItTDSJ0uH5IcaFdQzyA=="/>
+        <!-- Cantha -->
+        <!-- Seitung Province -->
+        <Trail type="race_tracks.cantha.sp_haijulagoonaseca.trail" trailData="Data/Trails/sp_haijulagoonaseca.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1442" xpos="202.7067566" ypos="403.5147095" zpos="70.80860138" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="vxbvLZ3WpU+RMUTOT6m+Og=="/>
+        <POI MapID="1442" xpos="266.0945129" ypos="494.2683411" zpos="62.72395706" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="OGipplP61UioHsgrmeFRdQ=="/>
+        <POI MapID="1442" xpos="293.290863" ypos="575.2609863" zpos="28.46347427" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="8D0p3ZBx0UOwTHoBw3Zr5A=="/>
+        <POI MapID="1442" xpos="374.5800781" ypos="625.3865356" zpos="3.840443611" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="r72v6tqCL0S0+ShMWp4U9w=="/>
+        <POI MapID="1442" xpos="441.680542" ypos="633.3212891" zpos="1.048663616" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="oyl8qutpskqqRQoFlz3iNQ=="/>
+        <POI MapID="1442" xpos="565.4076538" ypos="646.4911499" zpos="2.101202726" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="fJKroO24LUW7N4Oiw0pd0w=="/>
+        <POI MapID="1442" xpos="620.015564" ypos="599.5335083" zpos="4.54329586" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="92XXpsgIg0OfbV8Rbcaj8Q=="/>
+        <POI MapID="1442" xpos="634.6954956" ypos="527.8465576" zpos="10.55270576" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="NJBU/NvF4E+wfSFljqpxzg=="/>
+        <POI MapID="1442" xpos="606.9385376" ypos="451.45224" zpos="2.498465538" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="SZGPGIZayE2w4aOnUdto9A=="/>
+        <POI MapID="1442" xpos="584.3972168" ypos="400.5161133" zpos="1.85183835" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="xRha8NjLOki0JAfTrILyOQ=="/>
+        <POI MapID="1442" xpos="602.7425537" ypos="331.8393555" zpos="2.635441065" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="lzi2JgKFF0uSd3TrZDRwVg=="/>
+        <POI MapID="1442" xpos="739.6873779" ypos="270.2548218" zpos="20.13918877" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="juoYEHLnoEeHSnLWfqU3jQ=="/>
+        <POI MapID="1442" xpos="795.3739624" ypos="244.2705841" zpos="17.60944176" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="x0LS59bse0W53ytGAY1IfA=="/>
+        <POI MapID="1442" xpos="837.6098633" ypos="198.1705933" zpos="18.57303047" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="Ff5JC/j+tUiiH6HLzO9mxg=="/>
+        <POI MapID="1442" xpos="926.8796387" ypos="188.9846954" zpos="25.44527245" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="e4KtdOHgeEeTWyvERgGBrA=="/>
+        <POI MapID="1442" xpos="1005.077148" ypos="183.2399445" zpos="22.75318718" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="MjGRB3ylXk+r4CUSMGzaNg=="/>
+        <POI MapID="1442" xpos="1029.686646" ypos="83.33054352" zpos="23.09957886" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="ZcuQw8V93EaoJ2EfaX4dcQ=="/>
+        <POI MapID="1442" xpos="1019.307068" ypos="-29.21516991" zpos="29.05620384" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="/Y1B3OEuuUexbH8Ro2XFhQ=="/>
+        <POI MapID="1442" xpos="1014.239319" ypos="-168.1293488" zpos="30.60825348" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="wLiggUsF3UOZfQKyugaxGg=="/>
+        <POI MapID="1442" xpos="965.9614868" ypos="-185.7652283" zpos="30.86418724" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="ov9JMqxn/ESFZNLlX1qLLA=="/>
+        <POI MapID="1442" xpos="906.3648071" ypos="-173.1060333" zpos="28.65738106" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="lTJH20vtxU6aOFZkcbra3A=="/>
+        <POI MapID="1442" xpos="797.6941528" ypos="-78.22897339" zpos="46.96771622" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="/u3tWRf7X0211+55mYCdug=="/>
+        <POI MapID="1442" xpos="863.4691162" ypos="-55.95267487" zpos="64.04056549" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="arxyk85CrUqug9S7/ZrDlQ=="/>
+        <POI MapID="1442" xpos="962.152771" ypos="-5.906972885" zpos="66.01834869" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="92PraKXT2EyB4CvBDiOkEg=="/>
+        <POI MapID="1442" xpos="982.8728638" ypos="73.20727539" zpos="55.825634" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="ZeOCck4tkkaS631j8laMtw=="/>
+        <POI MapID="1442" xpos="977.9411011" ypos="129.2066498" zpos="51.0198288" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="q/ObTKN6m06g6wZdRyJHmg=="/>
+        <POI MapID="1442" xpos="928.9228516" ypos="126.9267578" zpos="49.21642303" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="7DegDDHQfUKjBrXUG05YbQ=="/>
+        <POI MapID="1442" xpos="847.8430786" ypos="106.2363358" zpos="62.07133102" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="UZwkW60hA0OUVYGtcQ2gwg=="/>
+        <POI MapID="1442" xpos="709.1571045" ypos="154.0797729" zpos="65.64717102" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="4hVay/j53UmvQk36mbiKXA=="/>
+        <POI MapID="1442" xpos="616.4174194" ypos="135.8015594" zpos="69.83628845" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="MpYZ3ed7A0CnLG+t8Dm7/A=="/>
+        <POI MapID="1442" xpos="426.894104" ypos="115.5643082" zpos="74.45645905" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="cd0/DJDdukGq8Odqk747qA=="/>
+        <POI MapID="1442" xpos="376.1413574" ypos="168.432373" zpos="74.02381134" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="ttSMLI0KIEWBw6rvi/6nFg=="/>
+        <POI MapID="1442" xpos="301.8425293" ypos="314.7530212" zpos="76.71059418" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="Hn44SV0SOEaF9oMADzTTKg=="/>
+        <POI MapID="1442" xpos="242.5570221" ypos="359.1917419" zpos="75.58273315" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" GUID="rhrzsxVtw0iA/CIB9zUmGw=="/>
+        <POI MapID="1442" xpos="68.70180511" ypos="251.4627228" zpos="114.040863" type="race_tracks.cantha.sp_haijulagoonaseca.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="O0j8m7LovE2SJnB5iyFIVg=="/>
+        <Trail type="race_tracks.cantha.sp_pathtothemonastery.trail" trailData="Data/Trails/sp_pathtothemonastery.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <!-- New Kaineng City -->
+        <Trail type="race_tracks.cantha.nkc_airdriftcity.trail" trailData="Data/Trails/nkc_airdriftcity.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1438" xpos="-487.7149353" ypos="536.9264526" zpos="207.5961914" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="+f13V7LJCUqqno30GANT/w=="/>
+        <POI MapID="1438" xpos="-316.4429626" ypos="633.901001" zpos="197.5150299" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="YBrBYggrk0OUjXuesiJVVw=="/>
+        <POI MapID="1438" xpos="-199.7546082" ypos="617.6570435" zpos="198.1816254" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="2N+0/srE5US0ybDel7lWtw=="/>
+        <POI MapID="1438" xpos="-198.738739" ypos="511.598053" zpos="198.1300354" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="c0oqR3Cd80ClaHShBJ0OpA=="/>
+        <POI MapID="1438" xpos="-364.3496399" ypos="361.435791" zpos="120.1216049" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="yzk0w3gnCUqceJZjn2Wv1A=="/>
+        <POI MapID="1438" xpos="-405.7001343" ypos="321.799469" zpos="120.1215439" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="wo1lHVux1kuB5IR0Xq038A=="/>
+        <POI MapID="1438" xpos="-471.6982422" ypos="236.1703186" zpos="120.1196594" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="vg3G1xqcVkWkLpMkrLfPLA=="/>
+        <POI MapID="1438" xpos="-528.3528442" ypos="117.9741745" zpos="129.1288452" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="VahfcQ61JEe6lYXzMRhTwg=="/>
+        <POI MapID="1438" xpos="-533.3109131" ypos="37.79270935" zpos="152.8710785" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="bRhjCOSXSUSUQx//R0FrTw=="/>
+        <POI MapID="1438" xpos="-534.5490723" ypos="-37.9450531" zpos="152.8660736" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="wgYflFBlsU+Qt06nlUTtSg=="/>
+        <POI MapID="1438" xpos="-528.3598633" ypos="-114.8818817" zpos="129.3478546" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="ip2tDqVgYUikFEFxvxWpAQ=="/>
+        <POI MapID="1438" xpos="-509.1568298" ypos="-205.4606628" zpos="120.1591263" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="B853CBRsUEKNfS5e4lof6w=="/>
+        <POI MapID="1438" xpos="-462.0626526" ypos="-268.3622742" zpos="120.1167908" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="zDPuXILnVkqmI8lFCqlAmg=="/>
+        <POI MapID="1438" xpos="-385.1930237" ypos="-371.6462402" zpos="120.347168" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="eOamnhaaHUiXME5/U/wkWw=="/>
+        <POI MapID="1438" xpos="-288.0338745" ypos="-382.0261841" zpos="120.1411133" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="VcUB8nfYPUKZv99mSw51sg=="/>
+        <POI MapID="1438" xpos="-10.43769455" ypos="-415.542572" zpos="2.621283531" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="MW/ZInZoQkSRNMSSfR5WVg=="/>
+        <POI MapID="1438" xpos="-8.485770226" ypos="-480.2522583" zpos="2.586604118" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="ZLtP1hOpok+RFPrQtLJsoA=="/>
+        <POI MapID="1438" xpos="1.962676287" ypos="-524.831543" zpos="2.798271418" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="giglo5s3AEGNMFnmQR3PGQ=="/>
+        <POI MapID="1438" xpos="55.69766998" ypos="-643.0070801" zpos="2.772903919" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="HgNECf6HdEuOmGPMnnQEkQ=="/>
+        <POI MapID="1438" xpos="98.88293457" ypos="-642.3598633" zpos="2.734717131" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="ffTXjtoSh0WHLYg+5FFP9w=="/>
+        <POI MapID="1438" xpos="114.5817032" ypos="-604.232666" zpos="2.780666351" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="DHQOMw1ojUWxfMdfYsIfyg=="/>
+        <POI MapID="1438" xpos="113.7924881" ypos="-540.7068481" zpos="2.891746998" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="c7R+Elrzu06uwTyhNZIXzA=="/>
+        <POI MapID="1438" xpos="117.2749557" ypos="-486.578064" zpos="2.926157475" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="tnBnq4945UuZ1mqjPAExsQ=="/>
+        <POI MapID="1438" xpos="152.2550201" ypos="-455.968811" zpos="2.612737417" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="/6/Rn/gBoUilBJU5WSPwHA=="/>
+        <POI MapID="1438" xpos="206.4602203" ypos="-417.3426819" zpos="2.623154402" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="uezhLCnt0kS2RcZmdMXkRQ=="/>
+        <POI MapID="1438" xpos="275.2834778" ypos="-376.1987915" zpos="2.622998476" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="6PnBdGil+06krGnwMmG64g=="/>
+        <POI MapID="1438" xpos="317.6135254" ypos="-382.3147278" zpos="2.622998238" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="Th1ikDpcMUaiOFGsuTmUPQ=="/>
+        <POI MapID="1438" xpos="333.73526" ypos="-442.6493225" zpos="2.623000622" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="bMIv/blJSkW9+DfhEL8vMg=="/>
+        <POI MapID="1438" xpos="364.2254944" ypos="-455.0655518" zpos="2.626233816" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="JtHGtlqkYkmG3TZVn6eTXQ=="/>
+        <POI MapID="1438" xpos="514.4939575" ypos="-456.4996033" zpos="2.586575508" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="S/4bWwZgikac4EN1/0/EHA=="/>
+        <POI MapID="1438" xpos="561.5718994" ypos="-386.9330139" zpos="2.622996807" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="z8YsiejYFUG8313enaWfUA=="/>
+        <POI MapID="1438" xpos="584.5722046" ypos="-325.8059998" zpos="2.586610079" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="kmcSykvQfkG0Ls03Bn/lsA=="/>
+        <POI MapID="1438" xpos="597.729248" ypos="-214.4198456" zpos="2.498059511" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="vIP+BaObGkecwmWxddAFBw=="/>
+        <POI MapID="1438" xpos="594.3115845" ypos="-94.87244415" zpos="2.581809759" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="MkMeu2hYl0mxHd5NO0zWMA=="/>
+        <POI MapID="1438" xpos="578.8556519" ypos="-56.17909241" zpos="2.634836197" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="SAsf1t0CAESe+zqRyE4Pwg=="/>
+        <POI MapID="1438" xpos="545.7462158" ypos="25.35057449" zpos="2.614795685" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="9fb+hAk/pE6tRXNEj2+SdA=="/>
+        <POI MapID="1438" xpos="546.9468384" ypos="61.07549667" zpos="2.569742918" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="tWoafIRDNUapSqx36SbN+g=="/>
+        <POI MapID="1438" xpos="559.4173584" ypos="115.8642731" zpos="2.766856194" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="mi4cOwOYRUWOfvRES+GC4Q=="/>
+        <POI MapID="1438" xpos="638.435791" ypos="81.02433777" zpos="2.724137306" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="LqQObiOn/UOjACOsq1L5LA=="/>
+        <POI MapID="1438" xpos="647.1160889" ypos="33.70635605" zpos="2.618237972" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="AIMjwEJ0EUGqTm44FZxosw=="/>
+        <POI MapID="1438" xpos="669.6620483" ypos="-36.31778336" zpos="2.58498168" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="FDsWiWS1JUOU4r0rDuMRRg=="/>
+        <POI MapID="1438" xpos="669.7866821" ypos="-98.61283112" zpos="2.59935236" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="3RheJAX/zEGpkFb7i+7Uew=="/>
+        <POI MapID="1438" xpos="648.3766479" ypos="-164.781601" zpos="2.55531621" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="yjX9qKp6x027KNDLlUFZRg=="/>
+        <POI MapID="1438" xpos="612.4265747" ypos="-166.5064697" zpos="2.623973846" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="wIEfzknknU6AmITrFjvbgw=="/>
+        <POI MapID="1438" xpos="598.1644287" ypos="-210.5521088" zpos="2.500724792" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="AlAWTZxlnkaTRhl9XvRlwQ=="/>
+        <POI MapID="1438" xpos="576.1473389" ypos="-251.5114288" zpos="2.510954142" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="rLnyZ3WtKUOiMiyol+raiw=="/>
+        <POI MapID="1438" xpos="463.9900818" ypos="-252.9552612" zpos="2.586580992" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="Tqy2x8GBkE2yvw/QNY1hZw=="/>
+        <POI MapID="1438" xpos="420.1858521" ypos="-273.5651855" zpos="2.620508909" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="TQpXQb2dP0uORtP0QnVh6Q=="/>
+        <POI MapID="1438" xpos="419.1964111" ypos="-337.9787598" zpos="2.586618662" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="cZTZMvuN+EWbYRyJa9dARA=="/>
+        <POI MapID="1438" xpos="426.3203125" ypos="-440.648468" zpos="2.625159979" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="gnIMGTrWckeue+ruJvhw2g=="/>
+        <POI MapID="1438" xpos="514.9772339" ypos="-456.3173828" zpos="2.58658433" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="287264em8UCrZUHHH/X1tw=="/>
+        <POI MapID="1438" xpos="563.326355" ypos="-478.6674805" zpos="2.62300539" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="tSDlNBg16kOOYXDECJAXIg=="/>
+        <POI MapID="1438" xpos="570.9296875" ypos="-530.5253906" zpos="3.516116142" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="bPCgzxZY/0K8sXXHGcignw=="/>
+        <POI MapID="1438" xpos="576.09375" ypos="-583.6865234" zpos="2.682976723" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="0CpymmTnHkiKNAilAAHAuQ=="/>
+        <POI MapID="1438" xpos="544.4486694" ypos="-624.9134521" zpos="2.203441381" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="eBnl8UMM4kmtTht8KzWnbA=="/>
+        <POI MapID="1438" xpos="471.243866" ypos="-619.0875854" zpos="2.968240499" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="04lu23OhGkaI6+QOZB+dGw=="/>
+        <POI MapID="1438" xpos="424.4957886" ypos="-620.0953979" zpos="3.085286856" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="SROcvFQuU0KJqXlXDU7Jng=="/>
+        <POI MapID="1438" xpos="362.5682373" ypos="-616.5587158" zpos="2.648214817" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="Gym1/ILGWkyt7zQiR3PUVQ=="/>
+        <POI MapID="1438" xpos="259.1101379" ypos="-510.8255005" zpos="2.623001099" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="g4OLCOCHyEOKcwDNOYfuYQ=="/>
+        <POI MapID="1438" xpos="237.4608459" ypos="-439.3053894" zpos="2.586586475" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="3/VU177uJEGKfJYRHv2lPQ=="/>
+        <POI MapID="1438" xpos="240.7966003" ypos="-345.0403137" zpos="2.586579561" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="KseeLVM/UEeXNrFopaft4Q=="/>
+        <POI MapID="1438" xpos="271.4367371" ypos="-270.9449463" zpos="2.474993706" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="YIRnVIOH20u78VHupnjXrQ=="/>
+        <POI MapID="1438" xpos="275.0437012" ypos="-205.8965912" zpos="2.474992275" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="fDlrflskJEGwW+0v0vPNbg=="/>
+        <POI MapID="1438" xpos="272.5467834" ypos="-121.1764908" zpos="2.474970341" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="qlMDyqpCr0KKkyZTHDWLdg=="/>
+        <POI MapID="1438" xpos="303.1538696" ypos="-66.67688751" zpos="2.607123375" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="F3AjwXj88kKaEr6igluhmA=="/>
+        <POI MapID="1438" xpos="303.7202148" ypos="-10.45066738" zpos="2.48613286" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="f4eK6GftnU6aOl00h4gleQ=="/>
+        <POI MapID="1438" xpos="303.6582031" ypos="23.02512741" zpos="2.515719414" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="tN+deNdyEUKE70xI0SCJxQ=="/>
+        <POI MapID="1438" xpos="303.6294861" ypos="81.32627106" zpos="2.453603268" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="/1OvRUxFdkavTLtnjmgNCw=="/>
+        <POI MapID="1438" xpos="282.1031189" ypos="130.5603027" zpos="2.586589336" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="JFUN0bbAa0SXm4+CqqKZug=="/>
+        <POI MapID="1438" xpos="261.8475342" ypos="177.4026794" zpos="2.586585522" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="5dA/mzUCjkmkEO30QAIH7A=="/>
+        <POI MapID="1438" xpos="263.0639343" ypos="271.5081787" zpos="2.620399714" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="5k7al0rhV0qIjvd4zl9oig=="/>
+        <POI MapID="1438" xpos="168.2288818" ypos="322.3603516" zpos="2.622997522" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="AgMlyPqQ1EqoSOs3w2CB9g=="/>
+        <POI MapID="1438" xpos="164.6641846" ypos="353.4137268" zpos="2.586587906" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="xHODlonfeEegFsxVLXjSnQ=="/>
+        <POI MapID="1438" xpos="163.7981415" ypos="422.0015259" zpos="2.586657286" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="tACsezHFhE+TE0bK1Xaesw=="/>
+        <POI MapID="1438" xpos="165.0101624" ypos="482.6574402" zpos="2.612929344" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="QRHV0N4wZE2rKIqgDj6VkQ=="/>
+        <POI MapID="1438" xpos="146.7238007" ypos="553.9749146" zpos="2.736066818" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="po+IhDGyUk6pT2jRO9cJ3A=="/>
+        <POI MapID="1438" xpos="73.84358978" ypos="586.0611572" zpos="2.586587906" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="ZGcWT70znUmhtUl45NO2dw=="/>
+        <POI MapID="1438" xpos="20.19029999" ypos="585.8485107" zpos="42.68538284" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="2JC16lyxokmBSaZhCL7n9Q=="/>
+        <POI MapID="1438" xpos="-4.969796658" ypos="510.2293396" zpos="42.57832718" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="j6t/S3Ca8EyNx2Og59OpBA=="/>
+        <POI MapID="1438" xpos="-5.371722221" ypos="463.3343811" zpos="42.57833099" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="d94FMqHg6UKmeCyHq+2e7w=="/>
+        <POI MapID="1438" xpos="-8.819638252" ypos="410.9057922" zpos="42.57832336" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="irgnA7HU2EWqBNEhMkubpQ=="/>
+        <POI MapID="1438" xpos="-49.79840851" ypos="396.9677429" zpos="42.57832336" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="gLY2eq9690Wp9TCaZuibSw=="/>
+        <POI MapID="1438" xpos="-119.9580688" ypos="371.0883179" zpos="42.69033051" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="3Z4niv/LzUmyYY57/Pk9pQ=="/>
+        <POI MapID="1438" xpos="-194.9600372" ypos="343.0507507" zpos="42.57835388" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="sNd5Kv6xMkyQ3tErNOvKkA=="/>
+        <POI MapID="1438" xpos="-286.5683289" ypos="289.7859192" zpos="42.61083984" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="Y5lX4YLw306iu5fUIzV8ow=="/>
+        <POI MapID="1438" xpos="-363.9405823" ypos="243.5763245" zpos="42.56451416" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="v6gIIY2LIEWGsHHNsgPqNg=="/>
+        <POI MapID="1438" xpos="-393.166748" ypos="146.587265" zpos="2.389851332" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="WYDY7h9hIUCyLxYeV88pQg=="/>
+        <POI MapID="1438" xpos="-390.7399292" ypos="69.55673218" zpos="2.478009224" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" GUID="EnVnJVbyQUuiD+aE94nbyw=="/>
+        <POI MapID="1438" xpos="-593.7338257" ypos="455.3670654" zpos="207.6604614" type="race_tracks.cantha.nkc_airdriftcity.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="nPrTmJCOyUWFt4nEyVTL8A=="/>
+        <Trail type="race_tracks.cantha.nkc_kainengskylane.trail" trailData="Data/Trails/nkc_kainengskylane.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <!-- The Echovald Wilds -->
+        <Trail type="race_tracks.cantha.tew_highwaytozuheltzer.trail" trailData="Data/Trails/tew_highwaytozuheltzer.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1452" xpos="973.8641968" ypos="15.77845383" zpos="92.5875473" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="E3kuYbbZZkiGbyk6lagrjQ=="/>
+        <POI MapID="1452" xpos="936.0085449" ypos="-19.66999817" zpos="103.4728851" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="TWK67sIaRUOnHWL3IcYEng=="/>
+        <POI MapID="1452" xpos="830.8279419" ypos="-89.43576813" zpos="92.57472229" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="NpO3lkebZE6dg3x8GGWm4Q=="/>
+        <POI MapID="1452" xpos="781.4495239" ypos="-46.68881226" zpos="93.41929626" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="DJlX2SsZbEe3YevcLjBH5w=="/>
+        <POI MapID="1452" xpos="781.5689697" ypos="45.18153381" zpos="122.9579315" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="cx3ca62uWkyoICPMCpNigw=="/>
+        <POI MapID="1452" xpos="748.8860474" ypos="131.6709747" zpos="134.9112549" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="PWzV7ksxkUiEjir3Ss6vfg=="/>
+        <POI MapID="1452" xpos="673.8598633" ypos="169.8973541" zpos="144.7621307" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="kh20juZRL0GOYlKYDXLHlA=="/>
+        <POI MapID="1452" xpos="611.0952148" ypos="145.8362274" zpos="177.878952" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="V+wXSuQ5hUaXBZ6saPu18Q=="/>
+        <POI MapID="1452" xpos="539.0078735" ypos="139.1833954" zpos="200.4592285" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="GvdznJcK9kK1yl1gXP9trw=="/>
+        <POI MapID="1452" xpos="457.9120789" ypos="116.0407944" zpos="247.688324" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="AYx7BhFUwkG4HEfLazywQA=="/>
+        <POI MapID="1452" xpos="331.087616" ypos="96.15530396" zpos="232.4517517" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="Sg7YswprvEmqo37ZEIZ6TQ=="/>
+        <POI MapID="1452" xpos="289.864563" ypos="47.38027573" zpos="225.2124786" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="htLz2KoV6UOsV5aU6j1USw=="/>
+        <POI MapID="1452" xpos="264.7859192" ypos="-19.79372597" zpos="203.0385742" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="QY+J0HK0ZkGJtYCqGULxsQ=="/>
+        <POI MapID="1452" xpos="233.2494202" ypos="-92.18289185" zpos="175.4240417" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="C8jC/psY9kW8EL1I6iL93g=="/>
+        <POI MapID="1452" xpos="171.3036499" ypos="-100.3045502" zpos="150.0486908" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="U5Sq5HOWuU24GUCuq5+jIw=="/>
+        <POI MapID="1452" xpos="118.9958649" ypos="-74.06490326" zpos="135.9033966" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="cyarflg1Q0ilm66NGppzrw=="/>
+        <POI MapID="1452" xpos="79.34422302" ypos="-13.365345" zpos="123.1914902" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="rmJZnjVfYEekfQBQMW5CrA=="/>
+        <POI MapID="1452" xpos="53.79345703" ypos="87.97317505" zpos="124.964447" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="WwZH+AzDnEmvRPB/2czcTg=="/>
+        <POI MapID="1452" xpos="53.71144104" ypos="150.485733" zpos="144.6025085" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="BvNcSf1TH0GRM3QfClZE4w=="/>
+        <POI MapID="1452" xpos="49.81386948" ypos="255.3022003" zpos="179.139389" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="ze9UvlUeCkm24OTBpB4Xkg=="/>
+        <POI MapID="1452" xpos="21.30232239" ypos="339.0617371" zpos="199.4988708" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="8U+txyQV/0W4QT4cQ4zp9g=="/>
+        <POI MapID="1452" xpos="5.660638809" ypos="400.9035339" zpos="187.4490051" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="tV7U65Ph3kKEiq+KD4fc6A=="/>
+        <POI MapID="1452" xpos="50.14394379" ypos="451.3528137" zpos="181.3604584" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="7EY1fd+NXEGrYlraqIFQ/w=="/>
+        <POI MapID="1452" xpos="6.420120239" ypos="509.8965149" zpos="167.9137115" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="H2AxcLBxikKwstrTa0xEKQ=="/>
+        <POI MapID="1452" xpos="-56.71373749" ypos="564.3525391" zpos="154.3566437" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="wTPZr88Uj0WyJlKcnZvVxQ=="/>
+        <POI MapID="1452" xpos="-122.8256836" ypos="553.5899048" zpos="149.1091003" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="4aPe0daW/kuZgnhyeD1qkw=="/>
+        <POI MapID="1452" xpos="-182.6348572" ypos="522.2141113" zpos="150.9041595" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="hIKIzRyjCkWtBeQQLq+whA=="/>
+        <POI MapID="1452" xpos="-281.228241" ypos="561.5602417" zpos="167.7760315" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="3pja3jlq2UuXUjBKB4a8Ow=="/>
+        <POI MapID="1452" xpos="-386.642334" ypos="560.0154419" zpos="164.6530762" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="NU6GI4HtWkSt98lzw4hw9A=="/>
+        <POI MapID="1452" xpos="-457.8210449" ypos="550.8641968" zpos="171.2964783" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="eMPgFghDl0e533v/gMW5Cg=="/>
+        <POI MapID="1452" xpos="-545.5316772" ypos="535.1253662" zpos="177.3247986" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="gh1JPdiH0E2FndiZrOF+dw=="/>
+        <POI MapID="1452" xpos="-559.0528564" ypos="432.1690674" zpos="171.4300232" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="VvBGCQP01ka8NHnOQNTMbQ=="/>
+        <POI MapID="1452" xpos="-611.4022827" ypos="249.6494141" zpos="160.6436615" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="wvkXYYD2i0i7nONJVPGEtw=="/>
+        <POI MapID="1452" xpos="-616.2676392" ypos="182.9851074" zpos="177.1094208" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="e2HKde5WYE6y8dDMzkWjrA=="/>
+        <POI MapID="1452" xpos="-556.5928955" ypos="116.4657822" zpos="177.603241" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="x4yAmWHhvkKmD2Gi53rs2A=="/>
+        <POI MapID="1452" xpos="-550.2388306" ypos="61.66924667" zpos="169.8461761" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="Ar45SthFGUGTScHmBwJ80Q=="/>
+        <POI MapID="1452" xpos="-639.5322876" ypos="-39.72869492" zpos="166.438797" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="WTWTzIJZz02bq2+aqI2Law=="/>
+        <POI MapID="1452" xpos="-710.0065918" ypos="-50.19661331" zpos="156.8361816" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="JCfuxirwuUSTpkaL75HzGg=="/>
+        <POI MapID="1452" xpos="-732.1091309" ypos="6.966457844" zpos="166.2698975" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="I0XRluUnEEmIxU4fqXaSrQ=="/>
+        <POI MapID="1452" xpos="-691.7984619" ypos="48.84237289" zpos="173.4757233" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="VdtjsbAWfkKJoSf0cp/BxA=="/>
+        <POI MapID="1452" xpos="-616.3395386" ypos="115.5542603" zpos="166.239563" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="+KM4hwfQmk2lfU0oiNY74A=="/>
+        <POI MapID="1452" xpos="-556.8407593" ypos="171.9453278" zpos="159.6551666" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" GUID="bE5EHT97vUupfplMO/Cffw=="/>
+        <POI MapID="1452" xpos="1013.520508" ypos="38.38299942" zpos="88.83114624" type="race_tracks.cantha.tew_highwaytozuheltzer.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="6vj68OsgJEughPOFZH6lGA=="/>
+
+        <Trail type="race_tracks.cantha.tew_tengutreetoptornado.trail" trailData="Data/Trails/tew_tengutreetoptornado.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <!-- Dragon's End -->
+        <Trail type="race_tracks.cantha.de_jadepeaks.trail" trailData="Data/Trails/de_jadepeaks.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1422" xpos="-147.9279175" ypos="802.2315674" zpos="160.5085754" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="4kAY2ZdQV0eUFBfsaGhPig=="/>
+        <POI MapID="1422" xpos="-197.3937988" ypos="837.9560547" zpos="176.311142" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="dj69n01RFEeoweX6aZqvvw=="/>
+        <POI MapID="1422" xpos="-294.9360046" ypos="757.1546021" zpos="143.6705475" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="UMSqggJgCE2wty9SIHsHUw=="/>
+        <POI MapID="1422" xpos="-417.1582336" ypos="667.5819092" zpos="156.1290436" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="8LPnOxbov0mbzPgxi+HlDg=="/>
+        <POI MapID="1422" xpos="-375.7937012" ypos="591.947876" zpos="156.5272064" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="6wVJEHbC90S2my7JnpXqaw=="/>
+        <POI MapID="1422" xpos="-379.4626465" ypos="518.9541626" zpos="156.5839081" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="Gyd1iL0dkU+UjXzeEjU6/Q=="/>
+        <POI MapID="1422" xpos="-480.4830017" ypos="352.7671814" zpos="148.4013977" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="MDVKqxfT/keI/0Pn7e5e/g=="/>
+        <POI MapID="1422" xpos="-413.3994446" ypos="139.4983826" zpos="147.9181061" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="IV59GXF+H0qVfJ5aXcJ+1g=="/>
+        <POI MapID="1422" xpos="-260.5088196" ypos="-52.91225815" zpos="148.596756" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="HcR5nB1xm0ibDfhE7sjSAg=="/>
+        <POI MapID="1422" xpos="-236.9906158" ypos="-136.3215637" zpos="185.4422607" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="f0E2oCffPEKmfpzo28eKag=="/>
+        <POI MapID="1422" xpos="-269.5045166" ypos="-293.1235962" zpos="149.6803894" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="2hNyovfnck6IXpaMEz+l8w=="/>
+        <POI MapID="1422" xpos="-167.6592865" ypos="-575.2538452" zpos="153.1205444" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="h0vIab1jpUmrAWP5s1Vs5g=="/>
+        <POI MapID="1422" xpos="-34.05190659" ypos="-635.8540039" zpos="198.7949982" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="I9rNQUEFzU6cZVrPADWynw=="/>
+        <POI MapID="1422" xpos="176.0216522" ypos="-715.9424438" zpos="154.6438904" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="pqynguZuy0uxWguWH9o0zg=="/>
+        <POI MapID="1422" xpos="360.4630432" ypos="-705.9959717" zpos="149.0485229" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="MONJYJdq2UOUfHlGsfc0uA=="/>
+        <POI MapID="1422" xpos="378.5385742" ypos="-702.9691162" zpos="150.0332489" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="Ujw+9B98qUqAxapt8p79GA=="/>
+        <POI MapID="1422" xpos="360.1638184" ypos="-589.828125" zpos="149.0449677" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="Jl3IOT8eGUGOmIkEFIv/6Q=="/>
+        <POI MapID="1422" xpos="311.8312073" ypos="-631.4200439" zpos="168.1096497" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="BSN2b30/Q0OcQMDwteAyuQ=="/>
+        <POI MapID="1422" xpos="160.0393219" ypos="-656.0883179" zpos="151.6635895" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="HcG/cfBkL0OcSLa3Sclolg=="/>
+        <POI MapID="1422" xpos="133.6078033" ypos="-468.0842896" zpos="123.3482666" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="LMFhE4b7t0acUZrfJbMJdA=="/>
+        <POI MapID="1422" xpos="-16.76556015" ypos="-399.0623779" zpos="118.6260529" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="5xsAdrSU1UGGOQUg4Ls56g=="/>
+        <POI MapID="1422" xpos="-10.21339035" ypos="-593.9403076" zpos="112.8953323" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="EV7Dha7WSkW6x7XITMsZ7A=="/>
+        <POI MapID="1422" xpos="80.39337158" ypos="-459.0523071" zpos="101.6126862" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="snHiPhgdGEmVjgSRX2r1ww=="/>
+        <POI MapID="1422" xpos="-62.68730927" ypos="-531.5938721" zpos="108.4782104" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="8dev8bE2Jk6NG8TKv6kSEQ=="/>
+        <POI MapID="1422" xpos="-63.30719757" ypos="-587.1699829" zpos="121.8836212" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="Q2qzUr9nHUeJht6+1b2JIQ=="/>
+        <POI MapID="1422" xpos="18.41435051" ypos="-670.1453857" zpos="145.3914642" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="rM/0Tvg7DkijIbzkz0GiRQ=="/>
+        <POI MapID="1422" xpos="110.7886505" ypos="-661.0075684" zpos="193.9222565" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="Fh0CXReJ1EGuVWX8HYmEkg=="/>
+        <POI MapID="1422" xpos="156.1616211" ypos="-608.0965576" zpos="215.5812683" type="race_tracks.cantha.de_jadepeaks.checkpoints" GUID="cGoBhY0tVESaWdEa73XVog=="/>
+        <!-- Crystal Desert -->
+        <!-- Crystal Oasis -->
+        <Trail type="race_tracks.crystaldesert.co_oasissprint.trail" trailData="Data/Trails/co_oasissprint.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1210" xpos="703.976" ypos="119.289" zpos="239.167" type="race_tracks.crystaldesert.co_oasissprint.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="qJTodlFwmEO7X0wlxyckHw=="/>
+		<POI MapID="1210" xpos="-1380.56" ypos="2.88247" zpos="136.436" type="race_tracks.crystaldesert.co_oasissprint.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="8KLq0wM+KUu/X4ngmgSfSg=="/>
+        <!-- Domain of Kourna -->
+        <Trail type="race_tracks.crystaldesert.dok_desertvillageswitchback.trail" trailData="Data/Trails/dok_desertvillageswitchback.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1288" xpos="-841.8375854" ypos="791.762085" zpos="46.58734512" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="W27utwTQR0WZG4gdRxZRMw=="/>
+        <POI MapID="1288" xpos="-772.4796143" ypos="825.5215454" zpos="44.04190826" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="1VdN/bBGU0aH6Nxzaolabw=="/>
+        <POI MapID="1288" xpos="-606.7314453" ypos="955.0523682" zpos="50.54117203" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="mUPvcQq4ZkaMmREawnC2NA=="/>
+        <POI MapID="1288" xpos="-568.5853271" ypos="925.8633423" zpos="37.12322998" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="4nAXbisc2kKsnpZ0fXMJXQ=="/>
+        <POI MapID="1288" xpos="-551.7752686" ypos="990.5553589" zpos="20.42473602" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="9qKH3IPRhEijUlF/stRDAw=="/>
+        <POI MapID="1288" xpos="-543.7262573" ypos="792.4224243" zpos="18.47697067" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="RGRbg6s+vkS++30ceOgHkA=="/>
+        <POI MapID="1288" xpos="-499.678009" ypos="696.0170288" zpos="5.868569851" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="MYfyhEawckeh8zz4bacWAA=="/>
+        <POI MapID="1288" xpos="-299.3664551" ypos="624.065979" zpos="13.64011097" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="WhcxMr8Pw0iT5S4sN3jStA=="/>
+        <POI MapID="1288" xpos="-401.0072937" ypos="392.3872375" zpos="23.62140274" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="/mdc5VDeRk+XvaE6RLNG5Q=="/>
+        <POI MapID="1288" xpos="-592.0150146" ypos="350.1063232" zpos="22.54621506" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="4FWiLeEbD0aJNaNBg7BXOw=="/>
+        <POI MapID="1288" xpos="-725.1605225" ypos="344.0007324" zpos="8.19806385" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="pyZrlj1wxUSlWl3b48EIKw=="/>
+        <POI MapID="1288" xpos="-929.2398682" ypos="660.4246216" zpos="33.42193604" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" GUID="UZPlarzEokeM0uv0TXvw4A=="/>
+        <POI MapID="1288" xpos="-848.1552734" ypos="697.0991821" zpos="43.63924408" type="race_tracks.crystaldesert.dok_desertvillageswitchback.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="s7LGZSaPYUuqRRgyU/PBrQ=="/>
+        <!-- Heart of Maguuma -->
+        <!-- Dragon's Stand -->
+        <Trail type="race_tracks.heartofmaguuma.ds_circuit.trail" trailData="Data/Trails/ds_circuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1041" xpos="643.192" ypos="59.2718" zpos="637.499" type="race_tracks.heartofmaguuma.ds_circuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="0VFIH9h7iECgpcEG05b18g=="/>
+		<POI MapID="1041" xpos="673.979" ypos="57.6611" zpos="737.82" type="race_tracks.heartofmaguuma.ds_circuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="yRi7iPn4TUGQVVvqboOORA=="/>
+        <!-- Tangled Depths -->
+        <Trail type="race_tracks.heartofmaguuma.td_tangleddescent.trail" trailData="Data/Trails/td_tangleddescent.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1045" xpos="-787.854" ypos="255.745" zpos="160.909" type="race_tracks.heartofmaguuma.td_tangleddescent.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="OpI5X6KALkiNvppx0xWPbg=="/>
+		<POI MapID="1045" xpos="200.879" ypos="38.9484" zpos="-181.675" type="race_tracks.heartofmaguuma.td_tangleddescent.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="6bc5KcMUvU2RbcEhtwkkGw=="/>
+        <!-- Verdant Brink -->
+        <Trail type="race_tracks.heartofmaguuma.vb_treacherouspath.trail" trailData="Data/Trails/vb_treacherouspath.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1052" xpos="-612.79" ypos="384.707" zpos="-430.851" type="race_tracks.heartofmaguuma.vb_treacherouspath.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="R2AJsrydIkmMi+Px31WZIw=="/>
+        <!-- Kryta -->
+        <!-- Gendarran Fields -->
+        <Trail type="race_tracks.kryta.gf_leylinecircuit.trail" trailData="Data/Trails/gf_leylinecircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="24" xpos="530.581" ypos="11.3956" zpos="-65.6597" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="vQpvgcENBkCNxnxSEvKZXw=="/>
+		<POI MapID="24" xpos="622.837" ypos="9.74375" zpos="-29.0677" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="PyNonS6kB0atLdMP3+J4pg=="/>
+		<POI MapID="24" xpos="976.423" ypos="40.6599" zpos="-190.85" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="V2azFLfvqkyMHIh1EFyI0g=="/>
+		<POI MapID="24" xpos="178.024" ypos="7.38475" zpos="501.821" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="Bo3Wxsvmvk6xq0BzCy64LQ=="/>
+		<POI MapID="24" xpos="-17.0912" ypos="1.36727" zpos="211.807" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="+pMaVdpi0kC/f06Nvl1eOA=="/>
+		<POI MapID="24" xpos="-163.573" ypos="0.15644" zpos="129.475" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="tF0gn0Rh0E6wJIUo63X2pQ=="/>
+		<POI MapID="24" xpos="-327.674" ypos="13.3814" zpos="338.857" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="tuXeJI7x10K3j/tN3pi7OQ=="/>
+		<POI MapID="24" xpos="-657.003" ypos="3.75474" zpos="378.209" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="9hXkEs2X7kyWIioQJRjlFA=="/>
+		<POI MapID="24" xpos="-925.428" ypos="8.24685" zpos="-18.3263" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="YFGuQXnWyUGuoQPnOo0g1g=="/>
+		<POI MapID="24" xpos="-483.887" ypos="12.2054" zpos="-276.759" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="6Y1tisuEzUWHll1crx4/kQ=="/>
+		<POI MapID="24" xpos="-140.438" ypos="4.36935" zpos="-421.338" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="HokxsxsPAUySI5cSYqeqmA=="/>
+		<POI MapID="24" xpos="289.882" ypos="4.31192" zpos="-352.543" type="race_tracks.kryta.gf_leylinecircuit.checkpoints" GUID="RRedH9O1/UG3ROk6oWgelA=="/>
+        <Trail type="race_tracks.kryta.gf_sprint1.trail" trailData="Data/Trails/gf_sprint1.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="24" xpos="1109.81" ypos="70.4448" zpos="-480.395" type="race_tracks.kryta.gf_sprint1.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="8ENZgEHpikeWTd4dlDJGUA=="/>
+		<POI MapID="24" xpos="-1180.87" ypos="6.85919" zpos="352.853" type="race_tracks.kryta.gf_sprint1.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="foF6XYN23kS5ijYerMuV4w=="/>
+        <Trail type="race_tracks.kryta.gf_sprint2.trail" trailData="Data/Trails/gf_sprint2.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+		<POI MapID="24" xpos="716.315" ypos="66.6725" zpos="450.319" type="race_tracks.kryta.gf_sprint2.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="Xwwi5NSgZEipj2M7OuqkUg=="/>
+		<POI MapID="24" xpos="723" ypos="20.9883" zpos="-90.8911" type="race_tracks.kryta.gf_sprint2.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="lSg3xyLPAk6D1Ze3xXso9Q=="/>
+        <Trail type="race_tracks.kryta.gf_centaurhideout.trail" trailData="Data/Trails/gf_centaurhideout.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="24" xpos="-1086.15" ypos="15.9567" zpos="355.627" type="race_tracks.kryta.gf_centaurhideout.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="Xh76Yc5RWkeEMeoANCM5yQ=="/>
+		<POI MapID="24" xpos="-1182.51" ypos="6.70372" zpos="356.645" type="race_tracks.kryta.gf_centaurhideout.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="KDtkMCT+kkekw8fowLuAfQ=="/>
+        <Trail type="race_tracks.kryta.gf_vigilcircuit.trail" trailData="Data/Trails/gf_vigilcircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <!-- Lake Doric -->
+        <Trail type="race_tracks.kryta.ld_circuit.trail" trailData="Data/Trails/ld_circuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1185" xpos="-273.415" ypos="33.9317" zpos="-249.169" type="race_tracks.kryta.ld_circuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="Wcs/ThRgYUasWMtzfuW4GQ=="/>
+        <!-- Lion's Arch -->
+        <Trail type="race_tracks.kryta.la_islandjump.trail" trailData="Data/Trails/la_islandjump.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="50" xpos="144.714" ypos="39.2779" zpos="211.169" type="race_tracks.kryta.la_islandjump.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="A7iGlK67zkOGlaO/FTXX3g=="/>
+        <Trail type="race_tracks.kryta.la_seasidecircuit.trail" trailData="Data/Trails/la_seasidecircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="50" xpos="132.295" ypos="39.1089" zpos="203.004" type="race_tracks.kryta.la_seasidecircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="2oBH2aHk8UWaOYLS7ixxIA=="/>
+		<POI MapID="50" xpos="118.623" ypos="38.2049" zpos="236.963" type="race_tracks.kryta.la_seasidecircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="1tKmhH3GNEqMJ75EaRZePQ=="/>
+        <Trail type="race_tracks.kryta.la_legend.trail" trailData="Data/Trails/la_legend.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="50" xpos="-29.094" ypos="24.0019" zpos="169.344" type="race_tracks.kryta.la_legend.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="IyEDHMXy6kWL6La/evrsXQ=="/>
+        <Trail type="race_tracks.kryta.la_westernwardcircuit.trail" trailData="Data/Trails/la_westernwardcircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <!-- Queensdale -->
+        <Trail type="race_tracks.kryta.qd_shaemoorcircuit.trail" trailData="Data/Trails/qd_shaemoorcircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="15" xpos="-389.138" ypos="52.3387" zpos="472.336" type="race_tracks.kryta.qd_shaemoorcircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="Vmf2dTsgiU6j1AJp2hYmZw=="/>
+		<POI MapID="15" xpos="-523.895" ypos="21.3248" zpos="387.09" type="race_tracks.kryta.qd_shaemoorcircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="IDHAzPWQMEyJmHEs0zEWfQ=="/>
+        <Trail type="race_tracks.kryta.qd_banditpassageway.trail" trailData="Data/Trails/qd_banditpassageway.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <Trail type="race_tracks.kryta.qd_banditpassagewayextended.trail" trailData="Data/Trails/qd_banditpassagewayextended.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <!-- Maguuma Jungle -->
+        <!-- Brisban Wildlands -->
+        <Trail type="race_tracks.maguumajungle.bw_skrittsburghtour.trail" trailData="Data/Trails/bw_skrittsburghtour.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="54" xpos="413.377" ypos="121.747" zpos="482.893" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="R7jhQY0WY0WwLkHLYxBe7w=="/>
+		<POI MapID="54" xpos="417.585" ypos="114.673" zpos="457.256" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="fRuEf60YTEqnYDCclAPXXg=="/>
+        <POI MapID="54" xpos="422.371" ypos="109.585" zpos="416.898" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="xyoNi8Og+E+4gr6o3lynhA=="/>
+		<POI MapID="54" xpos="586.751" ypos="55.8036" zpos="165.934" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="uDhPns9vO0etyMoFkbo1ww=="/>
+		<POI MapID="54" xpos="762.473" ypos="49.4726" zpos="-230.258" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="qcKVeb1j/EGb3zzqbDoU9Q=="/>
+		<POI MapID="54" xpos="888.581" ypos="60.6127" zpos="-542.291" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="GzSAf9arDU6lLlvobADqlQ=="/>
+		<POI MapID="54" xpos="747.827" ypos="54.9995" zpos="-550.68" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="LXz6OExzSUascwPMELSaXA=="/>
+		<POI MapID="54" xpos="855.802" ypos="24.1564" zpos="-260.911" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="TMfxXiIDP0WLW1qBoOce7Q=="/>
+		<POI MapID="54" xpos="877.976" ypos="48.9571" zpos="305.581" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="9DYXhwvgaUuxURXtholx0g=="/>
+		<POI MapID="54" xpos="879.46" ypos="43.1478" zpos="511.45" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="a+/p3DStIUmBuTZShRrlEg=="/>
+		<POI MapID="54" xpos="612.858" ypos="76.1552" zpos="564.083" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="keTA+6JUz0Sapuof4IxY2w=="/>
+		<POI MapID="54" xpos="867.308" ypos="26.7189" zpos="-385.599" type="race_tracks.maguumajungle.bw_skrittsburghtour.checkpoints" GUID="ZYEWErWSG06fT78hzK/gjg=="/>
+        <!-- Caledon Forest -->
+        <Trail type="race_tracks.maguumajungle.cf_outpostsprint.trail" trailData="Data/Trails/cf_outpostsprint.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="34" xpos="484.833" ypos="14.2734" zpos="1196.01" type="race_tracks.maguumajungle.cf_outpostsprint.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="jP7R2HXaNUi0GfKCktJfgQ=="/>
+		<POI MapID="34" xpos="-124.639" ypos="1.32213" zpos="-957.118" type="race_tracks.maguumajungle.cf_outpostsprint.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="7BfS2pMC2kCFEQwpGls8ng=="/>
+        <!-- Metrica Province -->
+        <Trail type="race_tracks.maguumajungle.mp_circuit.trail" trailData="Data/Trails/mp_circuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+		<POI MapID="35" xpos="-38.3677" ypos="43.7129" zpos="-253.97" type="race_tracks.maguumajungle.mp_circuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="muDwI6KGRkGFUoiSMONtwg=="/>
+        <!-- Mount Maelstrom -->
+        <Trail type="race_tracks.maguumajungle.mm_circuit.trail" trailData="Data/Trails/mm_circuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="39" xpos="-878.329" ypos="14.4935" zpos="-436.618" type="race_tracks.maguumajungle.mm_circuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="par609CvUUuY/7qNgI8iLg=="/>
+		<POI MapID="39" xpos="-787.002" ypos="32.4665" zpos="-472.62" type="race_tracks.maguumajungle.mm_circuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="ShCf9iXn80y7rPaJW+8AGw=="/>
+        <Trail type="race_tracks.maguumajungle.mm_intothevolcano.trail" trailData="Data/Trails/mm_intothevolcano.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="39" xpos="-882.735" ypos="73.6275" zpos="342.29" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="um/E83JS5UGrBxam5Lt/Tg=="/>
+		<POI MapID="39" xpos="-546.512" ypos="42.0552" zpos="108.134" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" GUID="8zG3i87raUWZ6YPTPUnvww=="/>
+		<POI MapID="39" xpos="-242.686" ypos="9.84968" zpos="-300.855" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" GUID="ZyBIfmNJPku9SOYjxt1aHw=="/>
+		<POI MapID="39" xpos="-152.735" ypos="16.3293" zpos="-446.215" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" GUID="uZcqoXyEgUOCA3XGBKkmKQ=="/>
+		<POI MapID="39" xpos="-48.6298" ypos="62.181" zpos="-105.021" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" GUID="zHyZ96a1MEyWlsQ3eWIiLg=="/>
+		<POI MapID="39" xpos="-440.47" ypos="68.81" zpos="150.384" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" GUID="N+VOAo9OrEm7EaYlPkusyA=="/>
+		<POI MapID="39" xpos="-859.309" ypos="78.3473" zpos="473.768" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" GUID="WD/DMTfJCke44DAA/cZHMQ=="/>
+		<POI MapID="39" xpos="-947.67" ypos="61.4398" zpos="620.896" type="race_tracks.maguumajungle.mm_intothevolcano.checkpoints" GUID="dqwr+cleLUmD6nMEYJtS4g=="/>
+        <Trail type="race_tracks.maguumajungle.mm_sprint.trail" trailData="Data/Trails/mm_sprint.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="39" xpos="-342.629" ypos="228.523" zpos="-107.372" type="race_tracks.maguumajungle.mm_sprint.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="Ngz3Gb8TxUam6D5yaP6qcw=="/>
+		<POI MapID="39" xpos="193.193" ypos="14.1564" zpos="94.3714" type="race_tracks.maguumajungle.mm_sprint.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="Tp0H0UVZQk6O6MXegaLYsA=="/>
+        <Trail type="race_tracks.maguumajungle.mm_trickycircuit.trail" trailData="Data/Trails/mm_trickycircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="39" xpos="-360.898" ypos="14.0101" zpos="565.821" type="race_tracks.maguumajungle.mm_trickycircuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="ZVwjyvgU60qGnzmahzQqWw=="/>
+        <!-- Rata Sum -->
+        <Trail type="race_tracks.maguumajungle.rs_downhilldrift.trail" trailData="Data/Trails/rs_downhilldrift.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="139" xpos="72.9824" ypos="385.831" zpos="240.166" type="race_tracks.maguumajungle.rs_downhilldrift.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="jQ6oQ/tEwUeeC+wW+bgiMg=="/>
+		<POI MapID="139" xpos="-19.4214" ypos="315.554" zpos="212.967" type="race_tracks.maguumajungle.rs_downhilldrift.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="K4l9xXqmeU+WMy6o7dE8Og=="/>
+        <!-- Sparkfly Fen -->
+        <Trail type="race_tracks.maguumajungle.sf_rotmouthrace.trail" trailData="Data/Trails/sf_rotmouthrace.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="53" xpos="-116.344" ypos="69.2316" zpos="-835.53" type="race_tracks.maguumajungle.sf_rotmouthrace.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="awafqeANXkS5g8WUq40Mag=="/>
+        <!-- Ring of Fire -->
+        <!-- Draconis Mons -->
+        <Trail type="race_tracks.ringoffire.dm_sprint.trail" trailData="Data/Trails/dm_sprint.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="1195" xpos="156.124" ypos="499.974" zpos="-292.943" type="race_tracks.ringoffire.dm_sprint.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="JmG7VJmR3keaiSvXzptnMg=="/>
+		<POI MapID="1195" xpos="-298.744" ypos="7.07939" zpos="-425.716" type="race_tracks.ringoffire.dm_sprint.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="UiG5QT0k1k++qVEQTYZLbw=="/>
+        <!-- Ruins of Orr -->
+        <!-- Cursed Shore -->
+        <Trail type="race_tracks.orr.cs_arahcircuit.trail" trailData="Data/Trails/cs_arahcircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="62" xpos="437.514" ypos="88.9256" zpos="-304.712" type="race_tracks.orr.cs_arahcircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="f4QKKRuH3Uiq+hHRoaG/ew=="/>
+		<POI MapID="62" xpos="72.8637" ypos="25.2431" zpos="-269.811" type="race_tracks.orr.cs_arahcircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="feSTkSypCE2Rhfpui8MUXQ=="/>
+        <Trail type="race_tracks.orr.cs_arahcircuitmk2.trail" trailData="Data/Trails/cs_arahcircuitmk2.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="62" xpos="437.871" ypos="88.9256" zpos="-304.264" type="race_tracks.orr.cs_arahcircuitmk2.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="R2kUczLkZkKWJ2XFc+c9cw=="/>
+	    <POI MapID="62" xpos="-1.73549" ypos="19.2361" zpos="-362.713" type="race_tracks.orr.cs_arahcircuitmk2.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="U4bplCB47E6uU1jJb6NR0w=="/>
+        <Trail type="race_tracks.orr.cs_arahdrifttime.trail" trailData="Data/Trails/cs_arahdrifttime.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+		<POI MapID="62" xpos="198.002" ypos="42.3004" zpos="644.197" type="race_tracks.orr.cs_arahdrifttime.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="EDhmvYaZe0q8r9RHYI4pFw=="/>
+        <!-- Straits of Devastation -->
+        <Trail type="race_tracks.orr.sod_devastationcircuit.trail" trailData="Data/Trails/sod_devastationcircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="51" xpos="399.032" ypos="16.1176" zpos="-355.067" type="race_tracks.orr.sod_devastationcircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="cmTf8Qv7WkKz3PKlRZ8laQ=="/>
+		<POI MapID="51" xpos="623.109" ypos="27.6504" zpos="101.514" type="race_tracks.orr.sod_devastationcircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="XRVK8a8Q+kG0PH2bFCqU4w=="/>
+        <!-- The Shiverpeaks -->
+        <!-- Dredgehaunt Cliffs -->
+        <Trail type="race_tracks.shiverpeaks.dc_circuit.trail" trailData="Data/Trails/dc_circuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="26" xpos="161.683" ypos="91.6981" zpos="837.173" type="race_tracks.shiverpeaks.dc_circuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="LaRnutSzKE+JMDL0JGGqJQ=="/>
+		<Trail type="race_tracks.shiverpeaks.dc_circuitextended.trail" trailData="Data/Trails/dc_circuitextended.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="26" xpos="161.312" ypos="91.5758" zpos="836.688" type="race_tracks.shiverpeaks.dc_circuitextended.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="tyOxsIHPCkazaI0SyRVYvg=="/>
+        <Trail type="race_tracks.shiverpeaks.dc_dredgeminefield.trail" trailData="Data/Trails/dc_dredgeminefield.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+		<POI MapID="26" xpos="-428.217" ypos="79.4375" zpos="828.104" type="race_tracks.shiverpeaks.dc_dredgeminefield.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="dQC7OcoynUG/CcI0I3bvBg=="/>
+		<POI MapID="26" xpos="-366.376" ypos="40.6249" zpos="694.696" type="race_tracks.shiverpeaks.dc_dredgeminefield.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="g+R8hgb9gUqJ3aqCKqHr1g=="/>
+        <!-- Hoelbrak -->
+        <Trail type="race_tracks.shiverpeaks.hb_karoshtournament.trail" trailData="Data/Trails/hb_karoshtournament.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="326" xpos="39.4896" ypos="335.319" zpos="-79.84" type="race_tracks.shiverpeaks.hb_karoshtournament.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="1qyQoX9Ff02OhmljtK0d2w=="/>
+        <Trail type="race_tracks.shiverpeaks.hb_rampdrift.trail" trailData="Data/Trails/hb_rampdrift.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="326" xpos="-84.2263" ypos="305.156" zpos="35.3113" type="race_tracks.shiverpeaks.hb_rampdrift.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="ooySUvh2FkCiafCZVF8r4Q=="/>
+        <!-- Frostgorge Sound -->
+        <Trail type="race_tracks.shiverpeaks.fs_canyoncircuit.trail" trailData="Data/Trails/fs_canyoncircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="30" xpos="110.09" ypos="77.5413" zpos="-310.691" type="race_tracks.shiverpeaks.fs_canyoncircuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="pBWwHM5G70q5rXhhIBpeHw=="/>
+        <Trail type="race_tracks.shiverpeaks.fs_molesandbearscircuit.trail" trailData="Data/Trails/fs_molesandbearscircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="30" xpos="-591.569" ypos="7.7477" zpos="-328.435" type="race_tracks.shiverpeaks.fs_molesandbearscircuit.checkpoints" iconFile="Data/Icons/RACE_startfinish.png" GUID="hMkYdx+yaUKa9xoz3VN/cQ=="/>
+        <!-- Lornar's Pass -->
+        <Trail type="race_tracks.shiverpeaks.lp_bridgemadness.trail" trailData="Data/Trails/lp_bridgemadness.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="27" xpos="-346.529" ypos="149.823" zpos="544.092" type="race_tracks.shiverpeaks.lp_bridgemadness.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="GkH5VeHPnkirJgpwg2SP0w=="/>
+		<POI MapID="27" xpos="-165.195" ypos="1.48084" zpos="-714.466" type="race_tracks.shiverpeaks.lp_bridgemadness.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="k6hMVmNpt0m/jobT+8K5AQ=="/>
+        <Trail type="race_tracks.shiverpeaks.lp_sprint.trail" trailData="Data/Trails/lp_sprint.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="27" xpos="446.314" ypos="229.608" zpos="1108.1" type="race_tracks.shiverpeaks.lp_sprint.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="rXhaCSm1l0e0NKFJf4NhzA=="/>
+		<POI MapID="27" xpos="347.483" ypos="81.766" zpos="-1191.09" type="race_tracks.shiverpeaks.lp_sprint.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="B+USUqpU0U+e/+RPB6wvMw=="/>
+        <!-- Snowden Drifts -->
+        <Trail type="race_tracks.shiverpeaks.sd_kerishanacircuit.trail" trailData="Data/Trails/sd_kerishanacircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="31" xpos="-918.62" ypos="63.3042" zpos="208.315" type="race_tracks.shiverpeaks.sd_kerishanacircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="hUELSFUj5kyCKxl+rcbPUQ=="/>
+		<POI MapID="31" xpos="-1111.28" ypos="127.683" zpos="315.371" type="race_tracks.shiverpeaks.sd_kerishanacircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="XBdCjXU/N0qNgIFkKo/onw=="/>
+        <Trail type="race_tracks.shiverpeaks.sd_easycircuit.trail" trailData="Data/Trails/sd_easycircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="31" xpos="-1111.73" ypos="127.764" zpos="315.518" type="race_tracks.shiverpeaks.sd_easycircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="rrkU128iHECUBWBznLN5EA=="/>
+		<POI MapID="31" xpos="-920.867" ypos="63.3649" zpos="208.521" type="race_tracks.shiverpeaks.sd_easycircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="4JYkHZNu50utVjj0ovUESA=="/>
+        <!-- Wayfarer Foothills -->
+        <Trail type="race_tracks.shiverpeaks.wf_frostyforestrally.trail" trailData="Data/Trails/wf_frostyforestrally.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <Trail type="race_tracks.shiverpeaks.wf_ravenshrinecircuit.trail" trailData="Data/Trails/wf_ravenshrinecircuit.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/>
+        <POI MapID="28" xpos="-28.9029" ypos="116.258" zpos="-623.937" type="race_tracks.shiverpeaks.wf_ravenshrinecircuit.checkpoints" iconFile="Data/Icons/RACE_start.png" GUID="iZH5TWLQkkOmlJ5RoOmzzw=="/>
+		<POI MapID="28" xpos="73.802" ypos="14.2737" zpos="-888.412" type="race_tracks.shiverpeaks.wf_ravenshrinecircuit.checkpoints" iconFile="Data/Icons/RACE_finish.png" GUID="vOSXyZYVnkiaLQIfs5VLpw=="/>
+        <!-- Meme Tracks -->
+        <!-- <Trail type="race_tracks.memes.tew_imeanitfitstherules.trail" trailData="Data/Trails/tew_imeanitfitstherules.trl" texture="Data/Icons/RACE_trail.png" fadeNear="6000" fadeFar="7000" color="417dc1"/> -->
+    </POIs>
+</OverlayData>
